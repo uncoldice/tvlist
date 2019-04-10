@@ -7,82 +7,34 @@ https://svt1-b.akamaized.net/se/svt2/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/uncoldice/tvlist/master/logo/barn.jpg" group-title="SVT", SVT Barnkanalen
 https://svtb-b.akamaized.net/se/svtb/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DhyuABZ.png" group-title="USA",ABC News (HD)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DhyuABZ.png" group-title="USA",ABC News
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.depauw.edu/files/resources/large_cbs-news.png" group-title="USA",CBS News (HD)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.depauw.edu/files/resources/large_cbs-news.png" group-title="USA",CBS News
 https://www.cbsnews.com/common/video/dai_prod.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="ENGLISH",Bloomberg Television
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="ENGLISH",NHK World (Opt-1)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="ENGLISH",NHK World
 http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="USA",Olympic Channel (UHD)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="USA",Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="ENGLISH",Sky News (HD)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="ENGLISH",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/1200px-BBC_Four.svg.png" group-title="UK",BBC Four (New!)
-http://80.238.134.35/CBeebiesHD/index.m3u8
-#EXTINF:-1 tvg-logo="http://dev.split.co.uk/middlechild/wp-content/uploads/2016/01/Master_5_Logo_Colour1.png" group-title="UK",Channel 5 (New!)
+#EXTINF:-1 tvg-logo="http://dev.split.co.uk/middlechild/wp-content/uploads/2016/01/Master_5_Logo_Colour1.png" group-title="UK",Channel 5
 http://80.238.134.35/Channel5HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="UK",Fox Sports
 http://45.58.62.92:8080
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",CCTV-1综合
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-1/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",CCTV-2财经
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-2/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",CCTV-3综艺
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-3/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",CCTV-4国际
 http://111.40.205.85/wh7f454c46tw1069062686_1618333624/PLTV/88888888/224/3221225725/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",CCTV-5体育
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-5/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",CCTV-5+
-http://111.40.205.87/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",CCTV-6电影
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-6/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",CCTV-7农业
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-7/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",CCTV-8电视剧
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-8/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",CCTV-9纪录片
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-9/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",CCTV-10科教
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-10/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",CCTV-11戏曲
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-11/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",CCTV-12社会与法
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-12/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",CCTV-13新闻
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-13/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",CCTV-14少儿
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-14/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",CCTV-15音乐
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-15/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",凤凰中文
-http://111.40.205.87/PLTV/88888888/224/3221225684/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",浙江卫视
-http://111.40.205.87/PLTV/88888888/224/3221225612/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",江苏卫视
-http://111.40.205.87/PLTV/88888888/224/3221225613/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",湖南卫视
-http://111.40.205.87/PLTV/88888888/224/3221225610/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",广东卫视
-http://111.40.205.87/PLTV/88888888/224/3221225736/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",四川文化
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",四川文化高清
 http://scgctvshow.sctv.com/hdlive/sctv2/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",四川经济
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",四川经济高清
 http://scgctvshow.sctv.com/hdlive/sctv3/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",四川影视
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",四川影视高清
 http://scgctvshow.sctv.com/hdlive/sctv5/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",四川妇女
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",四川妇女高清
 http://scgctvshow.sctv.com/hdlive/sctv7/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",四川公共
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",四川公共高清
 http://scgctvshow.sctv.com/sdlive/sctv9/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",NewTV精品记录
-http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",NewTV精品体育
-http://111.40.205.87/PLTV/88888888/224/3221225674/index.m3u8
