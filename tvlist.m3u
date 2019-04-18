@@ -38,6 +38,10 @@ http://cctvakhwc-cntv.akamaized.net/live/cctv3_2/index.m3u8?BR=hd&region=shangha
 #EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586730816_438.png", CCTV 4
 http://cctvakhwc-cntv.akamaized.net/live/cctv4_2/index.m3u8?BR=hd&region=shanghai
  
+
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586604971_463.png", CCTV Test
+http://cctvakhwc-cntv.akamaized.net/live/cctv15_1/index.m3u8?BR=td&region=shanghai
+
 #EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586730816_438.png", CCTV 4 Europe
 http://cctvakhwc-cntv.akamaized.net/live/cctveurope_2/index.m3u8?BR=hd&region=shanghai
  
