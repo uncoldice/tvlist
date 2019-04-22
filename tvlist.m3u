@@ -66,17 +66,6 @@ http://hls-ott-zhibo.wasu.tv/live/292/index.m3u8
 #EXTINF:-1, 国外动作
 http://hls-ott-zhibo.wasu.tv/live/305/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",四川文化高清
-http://scgctvshow.sctv.com/hdlive/sctv2/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",四川经济高清
-http://scgctvshow.sctv.com/hdlive/sctv3/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",四川影视高清
-http://scgctvshow.sctv.com/hdlive/sctv5/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",四川妇女高清
-http://scgctvshow.sctv.com/hdlive/sctv7/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",四川公共高清
-http://scgctvshow.sctv.com/sdlive/sctv9/3.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DhyuABZ.png" group-title="USA",ABC News
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.depauw.edu/files/resources/large_cbs-news.png" group-title="USA",CBS News
@@ -93,6 +82,8 @@ http://80.238.134.35/Channel5HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="UK",Fox Sports
 http://45.58.62.92:8080
 
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586773068_87.png", CCTV1 高清
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=7780104586873900361&livemode=1&authCode=3a&stbId=CA4003FF004735100000288CB809F88E&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
 #EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586768395_210.png", CCTV2 高清
 http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=6712427732700951500&livemode=1&authCode=3a&stbId=B74003FF004735100000288CB809EF82&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
 #EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586763825_455.png", CCTV3 高清
@@ -135,6 +126,17 @@ http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=8374060
 http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=6991321979145848743&livemode=1&authCode=3a&stbId=A94003FF004735100000288CB8C343E6&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
 #EXTINF:-1, 浙江卫视
 http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=7751216754229369822&livemode=1&authCode=3a&stbId=604003FF004735100000288CB8C33F96&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",四川文化高清
+http://scgctvshow.sctv.com/hdlive/sctv2/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",四川经济高清
+http://scgctvshow.sctv.com/hdlive/sctv3/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",四川影视高清
+http://scgctvshow.sctv.com/hdlive/sctv5/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",四川妇女高清
+http://scgctvshow.sctv.com/hdlive/sctv7/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",四川公共高清
+http://scgctvshow.sctv.com/sdlive/sctv9/3.m3u8
 
 #EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586604971_463.png", CCTV 15 加密
 http://cctvakhwc-cntv.akamaized.net/live/cctv15_1/index.m3u8?BR=td&region=shanghai
