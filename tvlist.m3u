@@ -7,6 +7,63 @@ https://svt1-b.akamaized.net/se/svt2/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/uncoldice/tvlist/master/logo/barn.jpg" group-title="SVT", SVT Barnkanalen
 https://svtb-b.akamaized.net/se/svtb/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="ENGLISH",Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586773068_87.png", CCTV 1
+http://cctvakhwc-cntv.akamaized.net/live/cctv1_2/index.m3u8?BR=hd&region=shanghai
+
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586773068_87.png", CCTV1 高清
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=7780104586873900361&livemode=1&authCode=3a&stbId=CA4003FF004735100000288CB809F88E&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+ 
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586768395_210.png", CCTV 2
+http://cctvakhwc-cntv.akamaized.net/live/cctv2_2/index.m3u8?BR=hd&region=shanghai
+ 
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586763825_455.png", CCTV 3
+http://cctvakhwc-cntv.akamaized.net/live/cctv3_2/index.m3u8?BR=hd&region=shanghai
+ 
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586730816_438.png", CCTV 4
+http://cctvakhwc-cntv.akamaized.net/live/cctv4_2/index.m3u8?BR=hd&region=shanghai
+
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586730816_438.png", CCTV 4 Europe
+http://cctvakhwc-cntv.akamaized.net/live/cctveurope_2/index.m3u8?BR=hd&region=shanghai
+ 
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586710465_498.png", CCTV 6
+http://cctvakhwc-cntv.akamaized.net/live/cctv6_2/index.m3u8?BR=hd&region=shanghai
+ 
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586695044_24.png", CCTV 7
+http://cctvakhwc-cntv.akamaized.net/live/cctv7_2/index.m3u8?BR=hd&region=shanghai
+ 
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586687646_743.png", CCTV 8
+http://cctvakhwc-cntv.akamaized.net/live/cctv8_2/index.m3u8?BR=hd&region=shanghai
+ 
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586655014_328.png", CCTV 10
+http://cctvakhwc-cntv.akamaized.net/live/cctv10_2/index.m3u8?BR=hd&region=shanghai
+ 
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586640573_700.png", CCTV 11
+http://cctvakhwc-cntv.akamaized.net/live/cctv11_2/index.m3u8?BR=hd&region=shanghai
+ 
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586635222_809.png", CCTV 12
+http://cctvakhwc-cntv.akamaized.net/live/cctv12_2/index.m3u8?BR=hd&region=shanghai
+ 
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586619347_364.png", CCTV 13
+http://cctvakhwc-cntv.akamaized.net/live/cctv13_2/index.m3u8?BR=hd&region=shanghai
+ 
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586604971_463.png", CCTV 15
+http://cctvakhwc-cntv.akamaized.net/live/cctv15_2/index.m3u8?BR=hd&region=shanghai
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",四川文化高清
+http://scgctvshow.sctv.com/hdlive/sctv2/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",四川经济高清
+http://scgctvshow.sctv.com/hdlive/sctv3/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",四川影视高清
+http://scgctvshow.sctv.com/hdlive/sctv5/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",四川妇女高清
+http://scgctvshow.sctv.com/hdlive/sctv7/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",四川公共高清
+http://scgctvshow.sctv.com/sdlive/sctv9/3.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DhyuABZ.png" group-title="USA",ABC News
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.depauw.edu/files/resources/large_cbs-news.png" group-title="USA",CBS News
@@ -18,9 +75,6 @@ http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="USA",Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="ENGLISH",Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
 #EXTINF:-1 tvg-logo="http://dev.split.co.uk/middlechild/wp-content/uploads/2016/01/Master_5_Logo_Colour1.png" group-title="UK",Channel 5
 http://80.238.134.35/Channel5HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="UK",Fox Sports
@@ -28,6 +82,9 @@ http://45.58.62.92:8080
 
 #EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586773068_87.png", CCTV 1
 http://cctvakhwc-cntv.akamaized.net/live/cctv1_2/index.m3u8?BR=hd&region=shanghai
+
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586773068_87.png", CCTV1 高清
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=7780104586873900361&livemode=1&authCode=3a&stbId=CA4003FF004735100000288CB809F88E&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
  
 #EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586768395_210.png", CCTV 2
 http://cctvakhwc-cntv.akamaized.net/live/cctv2_2/index.m3u8?BR=hd&region=shanghai
