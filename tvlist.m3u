@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/uncoldice/tvlist/master/logo/svt1.jpg" group-title="SVT", SVT 1
+#EXTINF:-1 tvg-id="SVT1" tvg-logo="https://raw.githubusercontent.com/uncoldice/tvlist/master/logo/svt1.jpg" group-title="SVT", SVT 1
 https://svt1-b.akamaized.net/se/svt1/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/uncoldice/tvlist/master/logo/svt2.jpg" group-title="SVT", SVT 2
+#EXTINF:-1 tvg-id="SVT2" tvg-logo="https://raw.githubusercontent.com/uncoldice/tvlist/master/logo/svt2.jpg" group-title="SVT", SVT 2
 https://svt1-b.akamaized.net/se/svt2/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/uncoldice/tvlist/master/logo/barn.jpg" group-title="SVT", SVT Barnkanalen
+#EXTINF:-1 tvg-id="SVTB" tvg-logo="https://raw.githubusercontent.com/uncoldice/tvlist/master/logo/barn.jpg" group-title="SVT", SVT Barnkanalen
 https://svtb-b.akamaized.net/se/svtb/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="ENGLISH",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
