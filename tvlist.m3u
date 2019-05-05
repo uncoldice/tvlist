@@ -39,6 +39,23 @@ http://cctvakhwc-cntv.akamaized.net/live/cctv13_2/index.m3u8?BR=hd&region=shangh
 http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4698841642605267773&livemode=1&authCode=3a&stbId=504003FF004735100000288CB80A03D8&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
 #EXTINF:-1 tvg-id="cctv15" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586604971_463.png", CCTV 15
 http://cctvakhwc-cntv.akamaized.net/live/cctv15_2/index.m3u8?BR=hd&region=shanghai
+
+#EXTINF:-1 tvg-id="hunan" , 湖南卫视
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=8374060722965940334&livemode=1&authCode=3a&stbId=874003FF004735100000288CB8C339F2&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+#EXTINF:-1 tvg-id="jiangsu" , 江苏卫视
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=6991321979145848743&livemode=1&authCode=3a&stbId=A94003FF004735100000288CB8C343E6&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+#EXTINF:-1 tvg-id="zhejiang" , 浙江卫视
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=7751216754229369822&livemode=1&authCode=3a&stbId=604003FF004735100000288CB8C33F96&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+#EXTINF:-1 tvg-id="anhui" , 安徽卫视
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=8519359625922101359&livemode=1&authCode=3a&stbId=9C4003FF004735100000288CB8C37238&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+#EXTINF:-1 tvg-id="btv1" , 北京卫视
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4741133387750560369&livemode=1&authCode=3a&stbId=E84003FF004735100000288CB8C3719C&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+#EXTINF:-1 tvg-id="dongfang" , 东方卫视
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=6322338140530063287&livemode=1&authCode=3a&stbId=8D4003FF004735100000288CB8C372DE&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+#EXTINF:-1 tvg-id="guangdong" , 广东卫视
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=6933976477918927839&livemode=1&authCode=3a&stbId=1D4003FF004735100000288CB8C37332&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+
+
 #EXTINF:-1, 综艺
 http://hls-ott-zhibo.wasu.tv/live/135/index.m3u8
 #EXTINF:-1, 电视剧
@@ -112,20 +129,6 @@ http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=5644425
 http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4698841642605267773&livemode=1&authCode=3a&stbId=504003FF004735100000288CB80A03D8&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
 #EXTINF:-1 tvg-id="cctv15" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586604971_463.png", CCTV15 高清
 http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=6270544915670196140&livemode=1&authCode=3a&stbId=554003FF004735100000288CB809F90C&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
-#EXTINF:-1 tvg-id="hunan" , 湖南卫视
-http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=8374060722965940334&livemode=1&authCode=3a&stbId=874003FF004735100000288CB8C339F2&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
-#EXTINF:-1 tvg-id="jiangsu" , 江苏卫视
-http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=6991321979145848743&livemode=1&authCode=3a&stbId=A94003FF004735100000288CB8C343E6&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
-#EXTINF:-1 tvg-id="zhejiang" , 浙江卫视
-http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=7751216754229369822&livemode=1&authCode=3a&stbId=604003FF004735100000288CB8C33F96&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
-#EXTINF:-1 tvg-id="anhui" , 安徽卫视
-http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=8519359625922101359&livemode=1&authCode=3a&stbId=9C4003FF004735100000288CB8C37238&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
-#EXTINF:-1 tvg-id="btv1" , 北京卫视
-http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4741133387750560369&livemode=1&authCode=3a&stbId=E84003FF004735100000288CB8C3719C&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
-#EXTINF:-1 tvg-id="dongfang" , 东方卫视
-http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=6322338140530063287&livemode=1&authCode=3a&stbId=8D4003FF004735100000288CB8C372DE&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
-#EXTINF:-1 tvg-id="guangdong" , 广东卫视
-http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=6933976477918927839&livemode=1&authCode=3a&stbId=1D4003FF004735100000288CB8C37332&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",四川文化高清
 http://scgctvshow.sctv.com/hdlive/sctv2/3.m3u8
