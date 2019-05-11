@@ -19,10 +19,14 @@ http://cctvakhwc-cntv.akamaized.net/live/cctv3_2/index.m3u8?BR=hd&region=shangha
 http://cctvakhwc-cntv.akamaized.net/live/cctv4_2/index.m3u8?BR=hd&region=shanghai
 #EXTINF:-1 tvg-id="cctv5" tvg-name="", CCTV 5 高清
 http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=5922040007130019836&livemode=1&authCode=3a&stbId=F04003FF004735100000288CB80A048C&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+#EXTINF:-1 tvg-id="cctv6" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586710465_498.png", CCTV 6
+http://cctvakhwc-cntv.akamaized.net/live/cctv6_2/index.m3u8?BR=hd&region=shanghai
 #EXTINF:-1 tvg-id="cctv6" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586710465_498.png", CCTV 6 高清
 http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=5919402815101985320&livemode=1&authCode=3a&stbId=BB4003FF004735100000288CB80A03B4&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
 #EXTINF:-1 tvg-id="cctv7" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586695044_24.png", CCTV 7
 http://cctvakhwc-cntv.akamaized.net/live/cctv7_2/index.m3u8?BR=hd&region=shanghai
+#EXTINF:-1 tvg-id="cctv8" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586687646_743.png", CCTV 8
+http://cctvakhwc-cntv.akamaized.net/live/cctv8_2/index.m3u8?BR=hd&region=shanghai
 #EXTINF:-1 tvg-id="cctv8" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586687646_743.png", CCTV 8 高清
 http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=8845820895945979833&livemode=1&authCode=3a&stbId=0A4003FF004735100000288CB80A2AD2&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
 #EXTINF:-1 tvg-id="cctvjilu" , CCTV 9
