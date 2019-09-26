@@ -9,6 +9,29 @@ https://svtb-b.akamaized.net/se/svtb/master.m3u8
 #EXTINF:-1 tvg-id="Sky News" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="ENGLISH",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
 
+#EXTINF:-1 tvg-id="cctv1" , CCTV1标清
+http://cctvcnch5c.v.wscdns.com/live/cctv1_2/index.m3u8
+#EXTINF:-1 tvg-id="cctv2" , CCTV2标清
+http://cctvcnch5c.v.wscdns.com/live/cctv2_2/index.m3u8
+#EXTINF:-1 tvg-id="cctv3" , CCTV3标清
+http://cctvcnch5c.v.wscdns.com/live/cctv3_2/index.m3u8
+#EXTINF:-1 tvg-id="cctv4" , CCTV4标清
+http://cctvcnch5c.v.wscdns.com/live/cctv4_2/index.m3u8
+#EXTINF:-1 tvg-id="cctv6" , CCTV6标清
+http://cctvcnch5c.v.wscdns.com/live/cctv6_2/index.m3u8
+#EXTINF:-1 tvg-id="cctv7" , CCTV7标清
+http://cctvcnch5c.v.wscdns.com/live/cctv7_2/index.m3u8
+#EXTINF:-1 tvg-id="cctv8" , CCTV8标清
+http://cctvcnch5c.v.wscdns.com/live/cctv8_2/index.m3u8
+#EXTINF:-1 tvg-id="cctv9" , CCTV9标清
+http://cctvcnch5c.v.wscdns.com/live/cctv9_2/index.m3u8
+#EXTINF:-1 tvg-id="cctv10" , CCTV10标清
+http://cctvcnch5c.v.wscdns.com/live/cctv10_2/index.m3u8
+#EXTINF:-1 tvg-id="cctv12" , CCTV12标清
+http://cctvcnch5c.v.wscdns.com/live/cctv12_2/index.m3u8
+#EXTINF:-1 tvg-id="cctv13" , CCTV13标清
+http://cctvcnch5c.v.wscdns.com/live/cctv13_2/index.m3u8
+
 #EXTINF:-1 tvg-id="cctv1" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586773068_87.png", CCTV 1
 http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=7780104586873900361&livemode=1&authCode=3a&stbId=CA4003FF004735100000288CB809F88E&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
 #EXTINF:-1 tvg-id="cctv2" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586768395_210.png", CCTV 2
