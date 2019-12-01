@@ -81,50 +81,21 @@ http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=6322338
 http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=6933976477918927839&livemode=1&authCode=3a&stbId=1D4003FF004735100000288CB8C37332&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
 
 
-#EXTINF:-1, 综艺
-http://hls-ott-zhibo.wasu.tv/live/135/index.m3u8
-#EXTINF:-1, 电视剧
-http://hls-ott-zhibo.wasu.tv/live/184/index.m3u8
-#EXTINF:-1, 古装剧场
-http://hls-ott-zhibo.wasu.tv/live/202/index.m3u8
-#EXTINF:-1, 华数剧场
-http://hls-ott-zhibo.wasu.tv/live/231/index.m3u8
-#EXTINF:-1, 游戏
-http://hls-ott-zhibo.wasu.tv/live/237/index.m3u8
-#EXTINF:-1, 美食
-http://hls-ott-zhibo.wasu.tv/live/256/index.m3u8
-#EXTINF:-1, 偶像
-http://hls-ott-zhibo.wasu.tv/live/257/index.m3u8
-#EXTINF:-1, 精彩剧场
-http://hls-ott-zhibo.wasu.tv/live/258/index.m3u8
-#EXTINF:-1, 爱情剧场
-http://hls-ott-zhibo.wasu.tv/live/261/index.m3u8
-#EXTINF:-1, 古装
-http://hls-ott-zhibo.wasu.tv/live/259/index.m3u8
-#EXTINF:-1, 国外电影
-http://hls-ott-zhibo.wasu.tv/live/264/index.m3u8
-#EXTINF:-1, 科幻电影
-http://hls-ott-zhibo.wasu.tv/live/263/index.m3u8
-#EXTINF:-1, 动作电影
-http://hls-ott-zhibo.wasu.tv/live/268/index.m3u8
-#EXTINF:-1, 国外电视
-http://hls-ott-zhibo.wasu.tv/live/269/index.m3u8
-#EXTINF:-1, 纪实HD
-http://hls-ott-zhibo.wasu.tv/live/292/index.m3u8
-#EXTINF:-1, 国外动作
-http://hls-ott-zhibo.wasu.tv/live/305/index.m3u8
+#EXTINF:-1, 成龙电影
+https://tx.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
+#EXTINF:-1, 经典港片
+https://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8
+#EXTINF:-1, 周星驰电影
+https://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
+#EXTINF:-1, 刘德华电影
+https://tx.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
+#EXTINF:-1, 李连杰电影
+https://tx.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
+#EXTINF:-1, 漫威电影
+https://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
+#EXTINF:-1, 动画电影
+https://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",四川文化高清
-http://scgctvshow.sctv.com/hdlive/sctv2/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",四川经济高清
-http://scgctvshow.sctv.com/hdlive/sctv3/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",四川影视高清
-http://scgctvshow.sctv.com/hdlive/sctv5/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",四川妇女高清
-http://scgctvshow.sctv.com/hdlive/sctv7/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA",四川公共高清
-http://scgctvshow.sctv.com/sdlive/sctv9/3.m3u8
 
 #EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586604971_463.png", CCTV 15 加密
 http://cctvakhwc-cntv.akamaized.net/live/cctv15_1/index.m3u8?BR=td&region=shanghai
