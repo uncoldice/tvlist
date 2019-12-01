@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<settings>
+   
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
+   
+  <filename>guide_new.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="n">mdb</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
+  <logging>on</logging>
+  <retry time-out="5">3</retry>
+  <timespan>2</timespan>
+  <update>f</update>
+ 
+  <!--
+            Replace the next dummy channel entry with the channels you want.
+			You can look into the installed siteini.pack folder on your computer
+  
+            For the latest version,
+            see http://webgrabplus.com/epg-channels for the available sites/channels
+  -->
+  
+  <channels>
+    <channel update="i" site="dagenstv.com" site_id="21" xmltv_id="SVT1">SVT1</channel>
+    <channel update="i" site="dagenstv.com" site_id="22" xmltv_id="SVT2">SVT2</channel>
+    <channel update="i" site="dagenstv.com" site_id="143" xmltv_id="SVTB">SVTB</channel>
+   	<channel update="i" site="m.tvguide.co.uk-index" site_id="257" xmltv_id="Sky News">Sky News</channel>
+	  <channel update="i" site="m.tvguide.co.uk-index" site_id="610" xmltv_id="NHK World">NHK World</channel>
+	  <channel update="i" site="m.tvguide.co.uk-index" site_id="112" xmltv_id="Bloomberg TV">Bloomberg TV</channel>
+	  <channel update="i" site="m.tvguide.co.uk-index" site_id="657" xmltv_id="Channel 5 HD">Channel 5 HD</channel>
+     <channel update="i" site="tvtv.us" site_id="36212D/2086" xmltv_id="Olympic Channel">Olympic Channel</channel>
+    <channel update="i" site="tv.cntv.cn" site_id="cctv1" xmltv_id="cctv1">CCTV-1 ??</channel>
+    <channel update="i" site="tv.cntv.cn" site_id="cctv2" xmltv_id="cctv2">CCTV-2 ??</channel>
+    <channel update="i" site="tv.cntv.cn" site_id="cctv3" xmltv_id="cctv3">CCTV-3 ??</channel>
+    <channel update="i" site="tv.cntv.cn" site_id="cctv4" xmltv_id="cctv4">CCTV-4 ??</channel>
+    <channel update="i" site="tv.cntv.cn" site_id="cctv5" xmltv_id="cctv5">CCTV-5 ??</channel>
+    <channel update="i" site="tv.cntv.cn" site_id="cctv6" xmltv_id="cctv6">CCTV-6 ??</channel>
+    <channel update="i" site="tv.cntv.cn" site_id="cctv7" xmltv_id="cctv7">CCTV-7 ????</channel>
+    <channel update="i" site="tv.cntv.cn" site_id="cctv8" xmltv_id="cctv8">CCTV-8 ???</channel>
+    <channel update="i" site="tv.cntv.cn" site_id="cctvjilu" xmltv_id="cctvjilu">CCTV-9 ??</channel>   
+    <channel update="i" site="tv.cntv.cn" site_id="cctv10" xmltv_id="cctv10">CCTV-10 ??</channel>
+    <channel update="i" site="tv.cntv.cn" site_id="cctv11" xmltv_id="cctv11">CCTV-11 ??</channel>  
+    <channel update="i" site="tv.cntv.cn" site_id="cctv12" xmltv_id="cctv12">CCTV-12 ????</channel> 
+    <channel update="i" site="tv.cntv.cn" site_id="cctv13" xmltv_id="cctv13">CCTV-13 ??</channel> 
+    <channel update="i" site="tv.cntv.cn" site_id="cctvchild" xmltv_id="cctvchild">CCTV-14 ??</channel> 
+    <channel update="i" site="tv.cntv.cn" site_id="cctv15" xmltv_id="cctv15">CCTV-15 ??</channel> 
+    <channel update="i" site="tv.cntv.cn" site_id="cctv5plus" xmltv_id="cctv5plus">CCTV????</channel>  
+    <channel update="i" site="tv.cntv.cn" site_id="anhui" xmltv_id="anhui">????</channel>  
+    <channel update="i" site="tv.cntv.cn" site_id="btv1" xmltv_id="btv1">????</channel>
+    <channel update="i" site="tv.cntv.cn" site_id="dongfang" xmltv_id="dongfang">????</channel> 
+    <channel update="i" site="tv.cntv.cn" site_id="guangdong" xmltv_id="guangdong">????</channel>
+    <channel update="i" site="tv.cntv.cn" site_id="hunan" xmltv_id="hunan">????</channel>
+    <channel update="i" site="tv.cntv.cn" site_id="jiangsu" xmltv_id="jiangsu">????</channel>
+    <channel update="i" site="tv.cntv.cn" site_id="zhejiang" xmltv_id="zhejiang">????</channel>
+  </channels>
+ 
+</settings>

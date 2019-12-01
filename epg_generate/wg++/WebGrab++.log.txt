@@ -1,0 +1,109 @@
+﻿[        ] 
+[        ]              WebGrab+Plus/w MDB & REX Postprocess -- version  V2.1              
+[        ] 
+[        ]                                 Jan van Straaten                                
+[        ]                              Francis De Paemeleere                              
+[        ] 
+[        ]             thanks to Paul Weterings and all the contributing users             
+[        ] --------------------------------------------------------------------------------
+[        ] 
+[        ] Job started at 01/12/2019 20:12:18
+[  Debug ] 
+[  Debug ] Running  on: Unix 4.14.78.4
+[  Debug ] Environment: 4.0.30319.42000
+[  Debug ] Mono version: 4.6.2 (Debian 4.6.2.7+dfsg-1)
+[  Debug ] 
+[  Debug ] Loading timezone data
+[  Debug ] Embedded timezones source: WGconsole.WG.Common.timezonesdata.txt
+[  Debug ] Reading config file: /home/osmc/wg++/./WebGrab++.config.xml
+[  Info  ] found: /home/osmc/wg++/./siteini.pack/Sweden/dagenstv.com.ini -- Revision 09
+[  Info  ] found: /home/osmc/wg++/./siteini.pack/UK/m.tvguide.co.uk-index.ini -- Revision 03
+[  Info  ] found: /home/osmc/wg++/./siteini.pack/USA/tvtv.us.ini -- Revision 01
+[  Info  ] found: /home/osmc/wg++/./siteini.pack/China/tv.cntv.cn.ini -- Revision 01
+[  Debug ] xmltv input file - /home/osmc/wg++/guide_new.xml - found
+[  Debug ] 0 superfluous shows removed
+[  Info  ] Found existing channel (xmltv_id=SVT1) in the config file
+[  Info  ] Found existing channel (xmltv_id=SVT2) in the config file
+[  Info  ] Found existing channel (xmltv_id=SVTB) in the config file
+[  Info  ] Found existing channel (xmltv_id=Sky News) in the config file
+[  Info  ] Found existing channel (xmltv_id=NHK World) in the config file
+[  Info  ] Found existing channel (xmltv_id=Bloomberg TV) in the config file
+[  Info  ] Found existing channel (xmltv_id=Channel 5 HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=Olympic Channel) in the config file
+[  Info  ] Found existing channel (xmltv_id=cctv1) in the config file
+[  Info  ] Found existing channel (xmltv_id=cctv2) in the config file
+[  Info  ] Found existing channel (xmltv_id=cctv3) in the config file
+[  Info  ] Found existing channel (xmltv_id=cctv4) in the config file
+[  Info  ] Found existing channel (xmltv_id=cctv5) in the config file
+[  Info  ] Found existing channel (xmltv_id=cctv6) in the config file
+[  Info  ] Found existing channel (xmltv_id=cctv7) in the config file
+[  Info  ] Found existing channel (xmltv_id=cctv8) in the config file
+[  Info  ] Found existing channel (xmltv_id=cctvjilu) in the config file
+[  Info  ] Found existing channel (xmltv_id=cctv10) in the config file
+[  Info  ] Found existing channel (xmltv_id=cctv11) in the config file
+[  Info  ] Found existing channel (xmltv_id=cctv12) in the config file
+[  Info  ] Found existing channel (xmltv_id=cctv13) in the config file
+[  Info  ] Found existing channel (xmltv_id=cctvchild) in the config file
+[  Info  ] Found existing channel (xmltv_id=cctv15) in the config file
+[  Info  ] Found existing channel (xmltv_id=cctv5plus) in the config file
+[  Info  ] Found existing channel (xmltv_id=anhui) in the config file
+[  Info  ] Found existing channel (xmltv_id=btv1) in the config file
+[  Info  ] Found existing channel (xmltv_id=dongfang) in the config file
+[  Info  ] Found existing channel (xmltv_id=guangdong) in the config file
+[  Info  ] Found existing channel (xmltv_id=hunan) in the config file
+[  Info  ] Found existing channel (xmltv_id=jiangsu) in the config file
+[  Info  ] Found existing channel (xmltv_id=zhejiang) in the config file
+[  Info  ] time offset change detected for site dagenstv.com from: +0200 to: +0100
+[  Info  ] time offset change detected for site m.tvguide.co.uk-index from: +0100 to: +0000
+[  Info  ] 
+[  Info  ] 
+[  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
+[  Info  ] 
+[  Info  ] 
+[  Info  ] Group (0) :
+[  Info  ] update requested for - 0 - out of - 31 - channels for 3 day(s)
+[  Info  ] 
+[  Info  ] Group (1) :
+[  Info  ] update requested for - 31 - out of - 31 - channels for 3 day(s)
+[  Debug ] 
+[  Info  ] (   1/31  ) DAGENSTV.COM -- chan. (xmltv_id=SVT1) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SVT1
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           109
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        109
+
+[  Debug ] 
+[  Info  ] (   2/31  ) DAGENSTV.COM -- chan. (xmltv_id=SVT2) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SVT2
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           93
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        93
+
+[  Debug ] 
+[  Info  ] (   3/31  ) DAGENSTV.COM -- chan. (xmltv_id=SVTB) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SVTB
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           213
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        213
+
+[  Debug ] 
+[  Info  ] (   4/31  ) M.TVGUIDE.CO.UK-INDEX -- chan. (xmltv_id=Sky News) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Sky News
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           130
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        130
+
+[  Debug ] 
+[  Info  ] (   5/31  ) M.TVGUIDE.CO.UK-INDEX -- chan. (xmltv_id=NHK World) -- mode Force

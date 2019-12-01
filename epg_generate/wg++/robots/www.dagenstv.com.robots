@@ -1,0 +1,23 @@
+﻿# robots.txt file 
+
+User-agent: *
+Disallow: /cache
+Disallow: /_old
+Disallow: /_private
+Disallow: /ads
+Disallow: /clientstep
+Disallow: /login
+Disallow: /monitoring
+Disallow: /includes
+Disallow: /settings
+Disallow: /sms
+Disallow: /tellafriend
+Disallow: /temp
+Disallow: /tv_nu
+Allow: /film
+Allow: /sport
+Allow: /serier
+# Sitemap URL:
+Sitemap: /map.asp
+
+# End robots.txt file
