@@ -26,9 +26,6 @@
     <channel update="i" site="dagenstv.com" site_id="143" xmltv_id="SVTB">SVTB</channel>
    	<channel update="i" site="m.tvguide.co.uk-index" site_id="257" xmltv_id="Sky News">Sky News</channel>
 	  <channel update="i" site="m.tvguide.co.uk-index" site_id="610" xmltv_id="NHK World">NHK World</channel>
-	  <channel update="i" site="m.tvguide.co.uk-index" site_id="112" xmltv_id="Bloomberg TV">Bloomberg TV</channel>
-	  <channel update="i" site="m.tvguide.co.uk-index" site_id="657" xmltv_id="Channel 5 HD">Channel 5 HD</channel>
-     <channel update="i" site="tvtv.us" site_id="36212D/2086" xmltv_id="Olympic Channel">Olympic Channel</channel>
     <channel update="i" site="tv.cntv.cn" site_id="cctv1" xmltv_id="cctv1">CCTV-1 ??</channel>
     <channel update="i" site="tv.cntv.cn" site_id="cctv2" xmltv_id="cctv2">CCTV-2 ??</channel>
     <channel update="i" site="tv.cntv.cn" site_id="cctv3" xmltv_id="cctv3">CCTV-3 ??</channel>

@@ -32,6 +32,8 @@ else
     fi
 fi ;
 
+echo "DIR is $DIR"
+
 /usr/bin/mono "$DIR/bin/WebGrab+Plus.exe" "$DIR"
 
 quit 0;

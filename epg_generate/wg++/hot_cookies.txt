@@ -1,5 +1,3 @@
 #  Hot_Cookies, saved for the purpose of an actual WebGrab run
-#  Saved by WG++ 01/12/2019
+#  Saved by WG++ 05/12/2019
 
-www.tvguide.co.uk	False	/	False	1606694400	TVGID%5Fsession	9999
-www.tvguide.co.uk	False	/	True	-62135600400	ASPSESSIONIDQUSDDSSS	OIOHOIACAGKIPKJKKLCHMNBE
