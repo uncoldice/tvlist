@@ -8,29 +8,9 @@ https://svt1-b.akamaized.net/se/svt2/master.m3u8
 https://svtb-b.akamaized.net/se/svtb/master.m3u8
 #EXTINF:-1 tvg-id="Sky News" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="ENGLISH",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+#EXTINF:-1 tvg-id="Bloomberg TV" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="ENGLISH",Bloomberg Television
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
-#EXTINF:-1 tvg-id="cctv1" , CCTV1标清
-http://cctvcnch5c.v.wscdns.com/live/cctv1_2/index.m3u8
-#EXTINF:-1 tvg-id="cctv2" , CCTV2标清
-http://cctvcnch5c.v.wscdns.com/live/cctv2_2/index.m3u8
-#EXTINF:-1 tvg-id="cctv3" , CCTV3标清
-http://cctvcnch5c.v.wscdns.com/live/cctv3_2/index.m3u8
-#EXTINF:-1 tvg-id="cctv4" , CCTV4标清
-http://cctvcnch5c.v.wscdns.com/live/cctv4_2/index.m3u8
-#EXTINF:-1 tvg-id="cctv6" , CCTV6标清
-http://cctvcnch5c.v.wscdns.com/live/cctv6_2/index.m3u8
-#EXTINF:-1 tvg-id="cctv7" , CCTV7标清
-http://cctvcnch5c.v.wscdns.com/live/cctv7_2/index.m3u8
-#EXTINF:-1 tvg-id="cctv8" , CCTV8标清
-http://cctvcnch5c.v.wscdns.com/live/cctv8_2/index.m3u8
-#EXTINF:-1 tvg-id="cctv9" , CCTV9标清
-http://cctvcnch5c.v.wscdns.com/live/cctv9_2/index.m3u8
-#EXTINF:-1 tvg-id="cctv10" , CCTV10标清
-http://cctvcnch5c.v.wscdns.com/live/cctv10_2/index.m3u8
-#EXTINF:-1 tvg-id="cctv12" , CCTV12标清
-http://cctvcnch5c.v.wscdns.com/live/cctv12_2/index.m3u8
-#EXTINF:-1 tvg-id="cctv13" , CCTV13标清
-http://cctvcnch5c.v.wscdns.com/live/cctv13_2/index.m3u8
 #EXTINF:-1,  港台电视31频道
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 
@@ -106,8 +86,6 @@ http://cctvakhwc-cntv.akamaized.net/live/cctv15_1/index.m3u8?BR=td&region=shangh
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.depauw.edu/files/resources/large_cbs-news.png" group-title="USA",CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
-#EXTINF:-1 tvg-id="Bloomberg TV" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="ENGLISH",Bloomberg Television
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BYUtv_logo.svg/1200px-BYUtv_logo.svg.png" group-title="USA",BYUtv (HD)
 https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
 #EXTINF:-1 tvg-id="NHK World" tvg-name="" tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="ENGLISH",NHK World
