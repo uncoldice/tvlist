@@ -16,19 +16,19 @@ http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
 #EXTINF:-1 tvg-id="cctv2" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586768395_210.png", CCTV 2
 http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
 #EXTINF:-1 tvg-id="cctv3" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586763825_455.png", CCTV 3
-http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4871512150101568971&livemode=1&authCode=3a&stbId=414003FF004735100000288CB80A2B1E&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="cctv4" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586730816_438.png", CCTV 4
 http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
 #EXTINF:-1 tvg-id="cctv5" , CCTV 5
-http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=5922040007130019836&livemode=1&authCode=3a&stbId=F04003FF004735100000288CB80A048C&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226340/1.m3u8
 #EXTINF:-1, CCTV 5+
 http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
 #EXTINF:-1 tvg-id="cctv6" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586710465_498.png", CCTV 6
-http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=5919402815101985320&livemode=1&authCode=3a&stbId=BB4003FF004735100000288CB80A03B4&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+http://101.71.255.229:6610/zjhs/2/10066/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="cctv7" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586695044_24.png", CCTV 7
 http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
 #EXTINF:-1 tvg-id="cctv8" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586687646_743.png", CCTV 8
-http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=8845820895945979833&livemode=1&authCode=3a&stbId=0A4003FF004735100000288CB80A2AD2&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+http://101.71.255.229:6610/zjhs/2/10062/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="cctvjilu" , CCTV 9
 http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
 #EXTINF:-1 tvg-id="cctv10" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586655014_328.png", CCTV 10
@@ -57,17 +57,25 @@ http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
 http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
 #EXTINF:-1,  NewTV超级电影
 http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+#EXTINF:-1,  NewTV超级电视剧
+http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
 #EXTINF:-1,  NewTV中国功夫
 http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225951/1.m3u8
+#EXTINF:-1,  NewTV海外剧场
+http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225917/1.m3u8
+#EXTINF:-1,  NewTV惊悚悬疑
+http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225921/1.m3u8
+#EXTINF:-1,  NewTV爱情喜剧
+http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8
 
 #EXTINF:-1 tvg-id="hunan" , 湖南卫视
 http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
 #EXTINF:-1 tvg-id="jiangsu" , 江苏卫视
 http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
 #EXTINF:-1 tvg-id="zhejiang" , 浙江卫视
-http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=7751216754229369822&livemode=1&authCode=3a&stbId=604003FF004735100000288CB8C33F96&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225903/1.m3u8
 #EXTINF:-1 tvg-id="anhui" , 安徽卫视
-http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=8519359625922101359&livemode=1&authCode=3a&stbId=9C4003FF004735100000288CB8C37238&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225873/1.m3u8
 #EXTINF:-1 tvg-id="btv1" , 北京卫视
 http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
 #EXTINF:-1 tvg-id="dongfang" , 东方卫视
