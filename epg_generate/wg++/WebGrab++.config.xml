@@ -24,14 +24,14 @@
     <channel update="i" site="dagenstv.com" site_id="21" xmltv_id="SVT1">SVT1</channel>
     <channel update="i" site="dagenstv.com" site_id="22" xmltv_id="SVT2">SVT2</channel>
     <channel update="i" site="dagenstv.com" site_id="143" xmltv_id="SVTB">SVTB</channel>
-   	<channel update="i" site="m.tvguide.co.uk-index" site_id="257" xmltv_id="Sky News">Sky News</channel>
-	  <channel update="i" site="m.tvguide.co.uk-index" site_id="610" xmltv_id="NHK World">NHK World</channel>
+    <channel update="i" site="m.tvguide.co.uk-index" site_id="257" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="m.tvguide.co.uk-index" site_id="nhk_world" xmltv_id="nhk_world">NHK World</channel>
     <channel update="i" site="tv.cntv.cn" site_id="cctv1" xmltv_id="cctv1">CCTV-1 ??</channel>
     <channel update="i" site="tv.cntv.cn" site_id="cctv2" xmltv_id="cctv2">CCTV-2 ??</channel>
     <channel update="i" site="tv.cntv.cn" site_id="cctv3" xmltv_id="cctv3">CCTV-3 ??</channel>
     <channel update="i" site="tv.cntv.cn" site_id="cctv4" xmltv_id="cctv4">CCTV-4 ??</channel>
     <channel update="i" site="tv.cntv.cn" site_id="cctv5" xmltv_id="cctv5">CCTV-5 ??</channel>
-    <channel update="i" site="tv.cntv.cn" site_id="cctv5plus" xmltv_id="cctv5pulus">CCTV-5 ??</channel>
+    <channel update="i" site="tv.cntv.cn" site_id="cctvfiveplus" xmltv_id="cctvfivepulus">CCTV-5 ??</channel>
     <channel update="i" site="tv.cntv.cn" site_id="cctv6" xmltv_id="cctv6">CCTV-6 ??</channel>
     <channel update="i" site="tv.cntv.cn" site_id="cctv7" xmltv_id="cctv7">CCTV-7 ????</channel>
     <channel update="i" site="tv.cntv.cn" site_id="cctv8" xmltv_id="cctv8">CCTV-8 ???</channel>
