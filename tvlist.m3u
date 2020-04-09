@@ -21,7 +21,7 @@ http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
 #EXTINF:-1 tvg-id="cctv5" , CCTV 5
 http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
-#EXTINF:-1 tvg-id="cctv5plus" , CCTV 5+
+#EXTINF:-1 tvg-id="cctvfiveplus" , CCTV 5+
 http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
 #EXTINF:-1 tvg-id="cctv6" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586710465_498.png", CCTV 6
 http://101.71.255.229:6610/zjhs/2/10066/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -105,7 +105,7 @@ https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BYUtv_logo.svg/1200px-BYUtv_logo.svg.png" group-title="USA",BYUtv (HD)
 https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
-#EXTINF:-1 tvg-id="NHK World" tvg-name="" tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="ENGLISH",NHK World
+#EXTINF:-1 tvg-id="nhk_world" tvg-name="" tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="ENGLISH",NHK World
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 #EXTINF:-1 tvg-id="Olympic Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="USA",Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
