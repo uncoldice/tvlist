@@ -24,6 +24,8 @@ http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000203802.m3u8
 http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000204802.m3u8
 #EXTINF:-1 tvg-id="cctv5" , CCTV 5
 http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000205102.m3u8
+#EXTINF:-1 tvg-id="cctv5" , CCTV 5 高清
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
 #EXTINF:-1 tvg-id="cctvfiveplus" , CCTV 5+
 http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000204502.m3u8
 #EXTINF:-1 tvg-id="cctv6" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586710465_498.png", CCTV 6
