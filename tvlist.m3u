@@ -12,6 +12,8 @@ http://beastiptv.tv:25461/live/johns/5PjqFBds2m/7058.ts
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1 tvg-id="nhk_world" tvg-name="" tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="ENGLISH",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_4M.m3u8
+#EXTINF:-1, NHK 华语世界
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 
 
 
