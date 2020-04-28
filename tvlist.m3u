@@ -10,7 +10,7 @@ https://svtb-b.akamaized.net/se/svtb/master.m3u8
 http://beastiptv.tv:25461/live/johns/5PjqFBds2m/7058.ts
 #EXTINF:-1 tvg-id="Bloomberg TV" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="ENGLISH",Bloomberg Television
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 tvg-id="nhk_world" tvg-name="" tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="ENGLISH",NHK World
+#EXTINF:-1 tvg-id="NHK World" tvg-name="" tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="ENGLISH",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_4M.m3u8
 #EXTINF:-1, NHK 华语世界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
@@ -30,7 +30,7 @@ http://live-aba-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204802.m3u8
 http://live-aba-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205102.m3u8
 #EXTINF:-1 tvg-id="cctv5" , CCTV 5 高清
 http://live-aba-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
-#EXTINF:-1 tvg-id="cctvfiveplus" , CCTV 5+
+#EXTINF:-1 tvg-id="cctv5plus" , CCTV 5+
 http://live-aba-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204502.m3u8
 #EXTINF:-1 tvg-id="cctv6" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586710465_498.png", CCTV 6
 http://live-aba-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203302.m3u8
