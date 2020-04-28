@@ -19,33 +19,37 @@ https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="cctv1" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586773068_87.png", CCTV 1
-http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000210102.m3u8
 #EXTINF:-1 tvg-id="cctv2" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586768395_210.png", CCTV 2
-http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000203602.m3u8
 #EXTINF:-1 tvg-id="cctv3" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586763825_455.png", CCTV 3
-http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000203802.m3u8
 #EXTINF:-1 tvg-id="cctv4" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586730816_438.png", CCTV 4
-http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000204802.m3u8
 #EXTINF:-1 tvg-id="cctv5" , CCTV 5
-http://liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000205102.m3u8
+#EXTINF:-1 tvg-id="cctv5" , CCTV 5 高清
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
+#EXTINF:-1 tvg-id="cctvfiveplus" , CCTV 5+
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000204502.m3u8
 #EXTINF:-1 tvg-id="cctv6" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586710465_498.png", CCTV 6
-http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000203302.m3u8
 #EXTINF:-1 tvg-id="cctv7" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586695044_24.png", CCTV 7
-http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000510002.m3u8
 #EXTINF:-1 tvg-id="cctv8" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586687646_743.png", CCTV 8
-http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000203902.m3u8
 #EXTINF:-1 tvg-id="cctvjilu" , CCTV 9
-http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000499402.m3u8
 #EXTINF:-1 tvg-id="cctv10" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586655014_328.png", CCTV 10
-http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000203502.m3u8
 #EXTINF:-1 tvg-id="cctv12" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586635222_809.png", CCTV 12
-http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000202602.m3u8
 #EXTINF:-1 tvg-id="cctv13" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586619347_364.png", CCTV 13
 http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000204602.m3u8
 #EXTINF:-1 tvg-id="cctvchild" , CCTV 14
-http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000204402.m3u8
 #EXTINF:-1 tvg-id="cctv15" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586604971_463.png", CCTV 15
-http://ivi.bupt.edu.cn/hls/cctv15hd.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000205002.m3u8
 #EXTINF:-1,  CCTV 4K
 http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 
