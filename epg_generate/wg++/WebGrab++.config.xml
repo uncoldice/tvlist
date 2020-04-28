@@ -26,29 +26,6 @@
     <channel update="i" site="dagenstv.com" site_id="143" xmltv_id="SVTB">SVTB</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="257" xmltv_id="Sky News">Sky News</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="nhk_world" xmltv_id="nhk_world">NHK World</channel>
-    <channel update="i" site="tv.cntv.cn" site_id="cctv1" xmltv_id="cctv1">CCTV-1 ??</channel>
-    <channel update="i" site="tv.cntv.cn" site_id="cctv2" xmltv_id="cctv2">CCTV-2 ??</channel>
-    <channel update="i" site="tv.cntv.cn" site_id="cctv3" xmltv_id="cctv3">CCTV-3 ??</channel>
-    <channel update="i" site="tv.cntv.cn" site_id="cctv4" xmltv_id="cctv4">CCTV-4 ??</channel>
-    <channel update="i" site="tv.cntv.cn" site_id="cctv5" xmltv_id="cctv5">CCTV-5 ??</channel>
-    <channel update="i" site="tv.cntv.cn" site_id="cctv6" xmltv_id="cctv6">CCTV-6 ??</channel>
-    <channel update="i" site="tv.cntv.cn" site_id="cctv7" xmltv_id="cctv7">CCTV-7 ????</channel>
-    <channel update="i" site="tv.cntv.cn" site_id="cctv8" xmltv_id="cctv8">CCTV-8 ???</channel>
-    <channel update="i" site="tv.cntv.cn" site_id="cctvjilu" xmltv_id="cctvjilu">CCTV-9 ??</channel>   
-    <channel update="i" site="tv.cntv.cn" site_id="cctv10" xmltv_id="cctv10">CCTV-10 ??</channel>
-    <channel update="i" site="tv.cntv.cn" site_id="cctv11" xmltv_id="cctv11">CCTV-11 ??</channel>  
-    <channel update="i" site="tv.cntv.cn" site_id="cctv12" xmltv_id="cctv12">CCTV-12 ????</channel> 
-    <channel update="i" site="tv.cntv.cn" site_id="cctv13" xmltv_id="cctv13">CCTV-13 ??</channel> 
-    <channel update="i" site="tv.cntv.cn" site_id="cctvchild" xmltv_id="cctvchild">CCTV-14 ??</channel> 
-    <channel update="i" site="tv.cntv.cn" site_id="cctv15" xmltv_id="cctv15">CCTV-15 ??</channel> 
-    <channel update="i" site="tv.cntv.cn" site_id="cctv5plus" xmltv_id="cctv5plus">CCTV????</channel>  
-    <channel update="i" site="tv.cntv.cn" site_id="anhui" xmltv_id="anhui">????</channel>  
-    <channel update="i" site="tv.cntv.cn" site_id="btv1" xmltv_id="btv1">????</channel>
-    <channel update="i" site="tv.cntv.cn" site_id="dongfang" xmltv_id="dongfang">????</channel> 
-    <channel update="i" site="tv.cntv.cn" site_id="guangdong" xmltv_id="guangdong">????</channel>
-    <channel update="i" site="tv.cntv.cn" site_id="hunan" xmltv_id="hunan">????</channel>
-    <channel update="i" site="tv.cntv.cn" site_id="jiangsu" xmltv_id="jiangsu">????</channel>
-    <channel update="i" site="tv.cntv.cn" site_id="zhejiang" xmltv_id="zhejiang">????</channel>
   </channels>
  
 </settings>
