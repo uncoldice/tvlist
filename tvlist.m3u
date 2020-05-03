@@ -71,13 +71,13 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225921/1.m3u8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8
 
 #EXTINF:-1 tvg-id="hunan" , 湖南卫视
-http://live-aba-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296202.m3u8
+http://119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000296202.m3u8
 #EXTINF:-1 tvg-id="jiangsu" , 江苏卫视
-http://live-aba-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295602.m3u8
+http://119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000295602.m3u8
 #EXTINF:-1 tvg-id="zhejiang" , 浙江卫视
-http://live-aba-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295502.m3u8
+http://119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000295502.m3u8
 #EXTINF:-1 tvg-id="dongfang" , 东方卫视
-http://live-aba-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292402.m3u8
+http://119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000292402.m3u8
 
 #EXTINF:-1, 武林外传
 http://aldirect.rtmp.huya.com/backsrc/29141112-2689670670-11552047564660408320-2847687630-10057-A-0-1.m3u8
