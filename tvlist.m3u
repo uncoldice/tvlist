@@ -18,39 +18,39 @@ https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="cctv1" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586773068_87.png", CCTV 1
+#EXTINF:-1 tvg-id="cctv1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png", CCTV 1
 http://119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000210102.m3u8
-#EXTINF:-1 tvg-id="cctv2" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586768395_210.png", CCTV 2
+#EXTINF:-1 tvg-id="cctv2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png", CCTV 2
 http://119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000203602.m3u8
-#EXTINF:-1 tvg-id="cctv3" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586763825_455.png", CCTV 3
+#EXTINF:-1 tvg-id="cctv3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png", CCTV 3
 http://119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000203802.m3u8
-#EXTINF:-1 tvg-id="cctv4" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586730816_438.png", CCTV 4
+#EXTINF:-1 tvg-id="cctv4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png", CCTV 4
 http://119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204802.m3u8
-#EXTINF:-1 tvg-id="cctv5" , CCTV 5
+#EXTINF:-1 tvg-id="cctv5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png", CCTV 5
 http://119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000205102.m3u8
-#EXTINF:-1 tvg-id="cctv5" , CCTV 5 高清
+#EXTINF:-1 tvg-id="cctv5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png", CCTV 5 高清
 http://119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000205103.m3u8
-#EXTINF:-1 tvg-id="cctv5plus" , CCTV 5+
+#EXTINF:-1 tvg-id="cctv5plus" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png", CCTV 5+
 http://119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204502.m3u8
-#EXTINF:-1 tvg-id="cctv6" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586710465_498.png", CCTV 6
+#EXTINF:-1 tvg-id="cctv6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png", CCTV 6
 http://119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000203302.m3u8
-#EXTINF:-1 tvg-id="cctv7" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586695044_24.png", CCTV 7
+#EXTINF:-1 tvg-id="cctv7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png", CCTV 7
 http://119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000510002.m3u8
-#EXTINF:-1 tvg-id="cctv8" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586687646_743.png", CCTV 8
+#EXTINF:-1 tvg-id="cctv8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png", CCTV 8
 http://119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000203902.m3u8
-#EXTINF:-1 tvg-id="cctvjilu" , CCTV 9
+#EXTINF:-1 tvg-id="cctvjilu" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png", CCTV 9
 http://119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000499402.m3u8
-#EXTINF:-1 tvg-id="cctv10" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586655014_328.png", CCTV 10
+#EXTINF:-1 tvg-id="cctv10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png", CCTV 10
 http://119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000203502.m3u8
-#EXTINF:-1 tvg-id="cctv12" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586635222_809.png", CCTV 12
+#EXTINF:-1 tvg-id="cctv12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png", CCTV 12
 http://119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000202602.m3u8
-#EXTINF:-1 tvg-id="cctv13" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586619347_364.png", CCTV 13
+#EXTINF:-1 tvg-id="cctv13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png", CCTV 13
 http://119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204602.m3u8
-#EXTINF:-1 tvg-id="cctvchild" , CCTV 14
+#EXTINF:-1 tvg-id="cctvchild" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png", CCTV 14
 http://119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204402.m3u8
-#EXTINF:-1 tvg-id="cctv15" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586604971_463.png", CCTV 15
+#EXTINF:-1 tvg-id="cctv15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png", CCTV 15
 http://119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000205002.m3u8
-#EXTINF:-1,  CCTV 4K
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",  CCTV 4K
 http://119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000266303.m3u8
 
 #EXTINF:-1,  NewTV超级综艺
