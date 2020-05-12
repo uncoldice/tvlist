@@ -35,7 +35,7 @@ http://119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000205103.m3u8
 #EXTINF:-1 tvg-id="cctv5plus" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png", CCTV 5+
 http://119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204502.m3u8
 #EXTINF:-1 tvg-id="cctv6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png", CCTV 6
-http://119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000203302.m3u8
+http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000203302.m3u8
 #EXTINF:-1 tvg-id="cctv7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png", CCTV 7
 http://119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000510002.m3u8
 #EXTINF:-1 tvg-id="cctv8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png", CCTV 8
