@@ -7,7 +7,7 @@ https://svt1-b.akamaized.net/se/svt2/master.m3u8
 #EXTINF:-1 tvg-id="SVTB" tvg-logo="https://raw.githubusercontent.com/uncoldice/tvlist/master/logo/barn.jpg" group-title="SVT", SVT Barnkanalen
 https://svtb-b.akamaized.net/se/svtb/master.m3u8
 #EXTINF:-1 tvg-id="Sky News" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="ENGLISH",Sky News
-http://beastiptv.tv:25461/live/johns/5PjqFBds2m/7058.ts
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 #EXTINF:-1 tvg-id="Bloomberg TV" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="ENGLISH",Bloomberg Television
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/ng.png" group-title="ENGLISH",National Geographic
