@@ -65,6 +65,10 @@ http://39.135.33.12/PLTV/77777777/224/3221226532/index.m3u8
 
 #EXTINF:-1,  周星驰
 http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
+#EXTINF:-1,  国产007(1) 
+https://video.dious.cc/20200621/SqKpLuG4/index.m3u8
+#EXTINF:-1,  国产007(2) 
+https://v3.szjal.cn/20190817/VN3zdHjE/index.m3u8
 #EXTINF:-1,  林正英
 http://tx2play1.douyucdn.cn/live/218859rw7EInzeqo.flv?uuid=
 #EXTINF:-1,  猫和老鼠
