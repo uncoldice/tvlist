@@ -64,7 +64,7 @@ https://vod8.wenshibaowenbei.com/20211212/DGtZS41g/index.m3u8
 https://v12.tkzyapi.com/20211212/iQIjx5Fc/index.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="ysp·央视", CCTV-1综合
-http://39.135.138.58:18890/PLTV/88888888/224/3221225630/index.m3u8
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/6088074220
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="ysp·央视", CCTV-2财经
 http://39.134.19.8/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="ysp·央视", CCTV-3综艺
