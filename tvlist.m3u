@@ -11,7 +11,7 @@ https://www.youtube.com/embed/9Auq9mYxFEE
 #EXTINF:-1 tvg-id="Bloomberg TV" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="ENGLISH",Bloomberg Television
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-country="US" tvg-url="" group-title="News",CNN
-plugin://plugin.video.youtube/play/?playlist_id=PLgOJ6a0mX6tfHe4du9C1aIprte__uOQk3&order=shuffle
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
 #EXTINF:-1 tvg-id="NHK World" tvg-name="" tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="ENGLISH",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_4M.m3u8
 #EXTINF:-1, NHK 华语世界
