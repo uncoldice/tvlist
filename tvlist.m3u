@@ -9,7 +9,7 @@ https://svtb-d.akamaized.net/se/svtb/master.m3u8?defaultSubLang=1
 #EXTINF:-1 tvg-id="Sky News" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="ENGLISH",Sky News
 https://www.youtube.com/embed/9Auq9mYxFEE
 #EXTINF:-1 tvg-id="Bloomberg TV" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="ENGLISH",Bloomberg Television
-plugin://plugin.video.youtube/play/?playlist_id=PLgOJ6a0mX6tcdwoWgWsLSqqi8o_K80yeS&order=shuffle
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-country="US" tvg-url="" group-title="News",CNN
 plugin://plugin.video.youtube/play/?playlist_id=PLgOJ6a0mX6tfHe4du9C1aIprte__uOQk3&order=shuffle
 #EXTINF:-1 tvg-id="NHK World" tvg-name="" tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="ENGLISH",NHK World
