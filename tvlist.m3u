@@ -7,7 +7,6 @@ https://svt2-d.akamaized.net/se/svt2/master.m3u8?defaultSubLang=1
 #EXTINF:-1 tvg-id="SVTB" tvg-logo="https://raw.githubusercontent.com/uncoldice/tvlist/master/logo/barn.jpg" group-title="SVT", SVT Barnkanalen
 https://svtb-d.akamaized.net/se/svtb/master.m3u8?defaultSubLang=1
 #EXTINF:-1 tvg-id="Sky News" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="ENGLISH",Sky News
-
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1641611927/ei/N67YYdjSM6KTsfIP7cqX6AI/ip/20.150.151.199/id/9Auq9mYxFEE.2/source/yt_live_broadcast/requiressl/yes/tx/24008108/txs/23997970%2C24008108/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgX5eXg437n_TrM7KAPaQPBNV6lkXLjPMlhPFeb3XZhPsCIHibNjOslYS3fBAT26-vqfahXCz-G75FsMevhoiOiUb0/file/index.m3u8
 #EXTINF:-1 tvg-id="Bloomberg TV" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="ENGLISH",Bloomberg Television
 plugin://plugin.video.youtube/play/?playlist_id=PLgOJ6a0mX6tcdwoWgWsLSqqi8o_K80yeS&order=shuffle
