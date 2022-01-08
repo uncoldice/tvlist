@@ -18,42 +18,63 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_4M.m3u8
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="ysp·央视", CCTV-1综合
-http://39.134.39.39/TVOD/88888888/224/3221226247/index.m3u8
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=4
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="ysp·央视", CCTV-2财经
-http://39.134.39.39/TVOD/88888888/224/3221226220/index.m3u8
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=4
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="ysp·央视", CCTV-3综艺
-http://39.134.39.39/TVOD/88888888/224/3221226251/index.m3u8
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000013682&livemode=1&stbId=4
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="ysp·央视", CCTV-4中文国际
-http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=4
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="ysp·央视", CCTV-5体育
-http://39.134.39.39/TVOD/88888888/224/3221226224/index.m3u8
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=4
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="ysp·央视", CCTV-5+体育赛事
-http://39.134.39.39/TVOD/88888888/224/3221226253/index.m3u8
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=4
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="ysp·央视", CCTV-6电影
-http://39.134.39.39/TVOD/88888888/224/3221226226/index.m3u8
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=4
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="ysp·央视", CCTV-8电视剧
-http://39.134.39.39/TVOD/88888888/224/3221226257/index.m3u8
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000031433&livemode=1&stbId=4
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="ysp·央视", CCTV-9纪录
-http://39.134.39.39/TVOD/88888888/224/3221226259/index.m3u8
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=4
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="ysp·央视", CCTV-10科教
-http://39.134.39.39/TVOD/88888888/224/3221226228/index.m3u8
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023734&livemode=1&stbId=4
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="ysp·央视", CCTV-12社会与法
-http://39.134.39.39/TVOD/88888888/224/3221226230/index.m3u8
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000032494&livemode=1&stbId=4
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="ysp·央视", CCTV-13新闻
-http://39.135.33.12/TVOD/77777777/224/3221226819/index.m3u8
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=4
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="ysp·央视", CCTV-14少儿
-http://39.134.39.39/TVOD/88888888/224/3221226232/index.m3u8
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008170&livemode=1&stbId=4
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="ysp·央视", CCTV-15音乐
-http://39.134.39.39/TVOD/88888888/224/3221226234/index.m3u8
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=4
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="ysp·卫视", 湖南卫视
-http://39.134.39.39/TVOD/88888888/224/3221226268/index.m3u8
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000032695&livemode=1&stbId=4
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="ysp·卫视", 浙江卫视
-http://39.134.39.39/TVOD/88888888/224/3221226266/index.m3u8
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014260&livemode=1&stbId=4
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="ysp·卫视", 江苏卫视
-http://39.134.39.39/TVOD/88888888/224/3221226264/index.m3u8
+ttp://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001828&livemode=1&stbId=4
 
+#EXTINF:-1 group-title="NewTV", NewTV动作电影
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=4
+#EXTINF:-1 group-title="NewTV", NewTV家庭剧场
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6316377948248689070&livemode=1&stbId=4
+#EXTINF:-1 group-title="NewTV", NewTV爱情喜剧
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8393829412396288037&livemode=1&stbId=4
+#EXTINF:-1 group-title="NewTV", NewTV精品体育
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6460382139625130259&livemode=1&stbId=4
+#EXTINF:-1 group-title="NewTV", NewTV精品纪录
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=4
+#EXTINF:-1 group-title="NewTV", NewTV超级体育
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009204&livemode=1&stbId=4
+#EXTINF:-1 group-title="NewTV", NewTV超级电影
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012884&livemode=1&stbId=4
+#EXTINF:-1 group-title="NewTV", NewTV超级电视剧
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008139&livemode=1&stbId=4
+#EXTINF:-1 group-title="NewTV", NewTV超级综艺
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000025771&livemode=1&stbId=4
+#EXTINF:-1 group-title="NewTV", NewTV金牌综艺
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=4
 
-
+#EXTINF:-1 group-title="movie",  逃离德黑兰
+https://video.dious.cc/20200826/otGMsuQR/index.m3u8
 #EXTINF:-1 group-title="movie",  一次别离(1) 
 https://c1.monidai.com/20210922/nog9ieHv/index.m3u8
 #EXTINF:-1 group-title="movie",  一次别离(2) 
@@ -63,90 +84,22 @@ https://vod8.wenshibaowenbei.com/20211212/DGtZS41g/index.m3u8
 #EXTINF:-1 group-title="movie",  考拉大冒险2（2）
 https://v12.tkzyapi.com/20211212/iQIjx5Fc/index.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="ysp·央视", CCTV-1综合
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视标清", CCTV-1综合（标清）
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/608807420
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="ysp·央视", CCTV-2财经
-http://39.134.19.8/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="ysp·央视", CCTV-3综艺
-http://39.134.19.1/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="ysp·央视", CCTV-4中文国际
-http://39.134.19.11/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226223/1.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="ysp·央视", CCTV-5体育
-http://39.134.39.39/TVOD/88888888/224/3221226224/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="ysp·央视", CCTV-5+体育赛事
-http://39.134.39.39/TVOD/88888888/224/3221226253/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="ysp·央视", CCTV-6电影
-http://39.134.39.39/TVOD/88888888/224/3221226226/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="ysp·央视", CCTV-8电视剧
-http://39.134.39.39/TVOD/88888888/224/3221226257/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="ysp·央视", CCTV-9纪录
-http://39.134.39.39/TVOD/88888888/224/3221226259/index.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="ysp·央视", CCTV-10科教
-http://39.134.39.39/TVOD/88888888/224/3221226228/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="ysp·央视", CCTV-12社会与法
-http://39.134.39.39/TVOD/88888888/224/3221226230/index.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="ysp·央视", CCTV-13新闻
-http://39.135.33.12/TVOD/77777777/224/3221226819/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="ysp·央视", CCTV-14少儿
-http://39.134.39.39/TVOD/88888888/224/3221226232/index.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="ysp·央视", CCTV-15音乐
-http://39.134.39.39/TVOD/88888888/224/3221226234/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视标清", CCTV-2财经（标清）
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/672926537
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视标清", CCTV-5体育（标清）
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/641886683
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="ysp·央视", CCTV-6电影（标清）
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878396
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="ysp·央视", CCTV-8电视剧（标清）
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878356
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="ysp·央视", CCTV-12社会与法（标清）
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/67316818
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="ysp·央视", CCTV-13新闻（标清）
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/672922360
 
-#EXTINF:-1,  洛基第一季1
-https://vod4.buycar5.cn/20210610/z4tM3fug/index.m3u8
-#EXTINF:-1,  洛基第一季2
-https://vod3.buycar5.cn/20210616/DPakHQUL/index.m3u8
-#EXTINF:-1,  洛基第一季3
-https://vod3.buycar5.cn/20210624/cpd6XUas/index.m3u8
-#EXTINF:-1,  洛基第一季4
-https://vod4.buycar5.cn/20210630/01uGaO2Z/index.m3u8
-#EXTINF:-1,  逃离德黑兰
-https://video.dious.cc/20200826/otGMsuQR/index.m3u8
-#EXTINF:-1,  顶楼第二季1
-https://vod.bunediy.com/20210220/AQr1GmSt/index.m3u8
-#EXTINF:-1,  顶楼第二季2
-https://vod.bunediy.com/20210221/RlZgCvNR/index.m3u8
-#EXTINF:-1,  顶楼第二季3
-https://vod.bunediy.com/20210227/c8pLF0fD/index.m3u8
-#EXTINF:-1,  顶楼第二季4
-https://vod.bunediy.com/20210228/KXryl0eI/index.m3u8
-#EXTINF:-1,  顶楼第二季5
-https://vod3.buycar5.cn/20210306/ogor9PGB/index.m3u8
-#EXTINF:-1,  顶楼第二季6
-https://vod.bunediy.com/20210307/rpTdOiBZ/index.m3u8
-#EXTINF:-1,  顶楼第二季7
-https://vod.bunediy.com/20210313/FkmFO8bi/index.m3u8
-#EXTINF:-1,  顶楼第二季8
-https://vod.bunediy.com/20210314/PENzY2Rt/index.m3u8
-#EXTINF:-1,  顶楼第二季9
-https://vod.bunediy.com/20210320/eejyxNL6/index.m3u8
-#EXTINF:-1,  顶楼第二季10
-https://vod.bunediy.com/20210321/gU2gwud3/index.m3u8
-#EXTINF:-1,  顶楼第二季11
-https://vod.bunediy.com/20210327/OlJJCWkv/index.m3u8
-#EXTINF:-1,  顶楼第二季12
-https://vod.bunediy.com/20210328/2UbPFJ6Z/index.m3u8
-#EXTINF:-1,  顶楼第二季13
-https://vod.bunediy.com/20210403/Z789p9ds/index.m3u8
-#EXTINF:-1,  顶楼第二季特辑上
-https://vod.bunediy.com/20210404/f80y6T7u/index.m3u8
-#EXTINF:-1,  顶楼第二季特辑下
-https://vod.bunediy.com/20210404/Knqkt79r/index.m3u8
 
-#EXTINF:-1, 虎牙相声（无效）
-https://aldirect.rtmp.huya.com/backsrc/29106097-2689281338-11550375396453122048-2777038134-10057-A-0-1.m3u8
-#EXTINF:-1, 武林外传（无效）
-http://aldirect.rtmp.huya.com/backsrc/29141112-2689670670-11552047564660408320-2847687630-10057-A-0-1.m3u8
-#EXTINF:-1, 成龙电影（无效）
-http://aldirect.rtmp.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
-#EXTINF:-1, 成龙电影-奇迹（无效）
-https://yi.jingdianzuida.com/20190905/ZjReDEYC/index.m3u8
-#EXTINF:-1, 周星驰电影（无效）
-http://aldirect.rtmp.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
-#EXTINF:-1, 刘德华电影（无效）
-http://aldirect.rtmp.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
-#EXTINF:-1, 李连杰电影（无效）
-http://aldirect.rtmp.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
 
 
 
