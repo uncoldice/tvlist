@@ -10,6 +10,8 @@ https://svtb-d.akamaized.net/se/svtb/master.m3u8?defaultSubLang=1
 https://www.youtube.com/embed/9Auq9mYxFEE
 #EXTINF:-1 tvg-id="Bloomberg TV" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="ENGLISH",Bloomberg Television
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="4K频道", Bloomberg TV+ 4K
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-country="US" tvg-url="" group-title="News",Deutsche Welle
 https://dwamdstream109.akamaized.net/hls/live/2017970/dwstream109/index.m3u8
 #EXTINF:-1 tvg-id="NHK World" tvg-name="" tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="ENGLISH",NHK World
@@ -54,89 +56,36 @@ https://php.52sf.ga/@Curly_MouseIPTV-BF.php?id=094
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="ysp·卫视", 江苏卫视
 https://php.52sf.ga/@Curly_MouseIPTV-BF.php?id=085
 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视标清", CCTV-1综合（标清）
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/608807420
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视标清", CCTV-2财经（标清）
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/672926537
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视标清", CCTV-5体育（标清）
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/641886683
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="ysp·央视", CCTV-6电影（标清）
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878396
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="ysp·央视", CCTV-8电视剧（标清）
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878356
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="ysp·央视", CCTV-12社会与法（标清）
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/67316818
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="ysp·央视", CCTV-13新闻（标清）
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/672922360
-
-#EXTINF:-1 group-title="movie",  泡菜奶酪微笑19
-https://letv.sd-play.com/20211107/38wSsmiR/1200kb/hls/index.m3u8
-#EXTINF:-1 group-title="movie",  泡菜奶酪微笑20
-https://letv.sd-play.com/20211107/FlyJ4eGr/1200kb/hls/index.m3u8
-#EXTINF:-1 group-title="movie",  泡菜奶酪微笑21
-https://letv.sd-play.com/20211107/EvcGh9a4/1200kb/hls/index.m3u8
-#EXTINF:-1 group-title="movie",  泡菜奶酪微笑22
-https://letv.sd-play.com/20211107/FjTPXT1G/1200kb/hls/index.m3u8
-#EXTINF:-1 group-title="movie",  泡菜奶酪微笑23
-https://letv.sd-play.com/20211107/cxrCViOw/1200kb/hls/index.m3u8
-#EXTINF:-1 group-title="movie",  泡菜奶酪微笑24
-https://letv.sd-play.com/20211107/xaNpmnTY/1200kb/hls/index.m3u8
-#EXTINF:-1 group-title="movie",  泡菜奶酪微笑25
-https://letv.sd-play.com/20211107/NgAKBjFz/1200kb/hls/index.m3u8
-#EXTINF:-1 group-title="movie",  泡菜奶酪微笑26
-https://letv.sd-play.com/20211107/YXWmGoEd/1200kb/hls/index.m3u8
-#EXTINF:-1 group-title="movie",  泡菜奶酪微笑27
-https://letv.sd-play.com/20211107/Fp0OPZSW/1200kb/hls/index.m3u8
-#EXTINF:-1 group-title="movie",  泡菜奶酪微笑28
-https://letv.sd-play.com/20211107/Hwsi70Gd/1200kb/hls/index.m3u8
-#EXTINF:-1 group-title="movie",  泡菜奶酪微笑29
-https://letv.sd-play.com/20211107/fOXwZdeY/1200kb/hls/index.m3u8
-#EXTINF:-1 group-title="movie",  泡菜奶酪微笑30
-https://letv.sd-play.com/20211107/BQg2mjDE/1200kb/hls/index.m3u8
-#EXTINF:-1 group-title="movie",  泡菜奶酪微笑31
-https://letv.sd-play.com/20211107/ZAOaJpHv/1200kb/hls/index.m3u8
-#EXTINF:-1 group-title="movie",  泡菜奶酪微笑32
-https://letv.sd-play.com/20211107/sGeYuCSO/1200kb/hls/index.m3u8
-#EXTINF:-1 group-title="movie",  泡菜奶酪微笑33
-https://letv.sd-play.com/20211107/URTuh7tb/1200kb/hls/index.m3u8
-#EXTINF:-1 group-title="movie",  泡菜奶酪微笑34
-https://letv.sd-play.com/20211107/Cr9PV0YS/1200kb/hls/index.m3u8
-#EXTINF:-1 group-title="movie",  泡菜奶酪微笑35
-https://letv.sd-play.com/20211107/5fl1Ny5n/1200kb/hls/index.m3u8
-#EXTINF:-1 group-title="movie",  泡菜奶酪微笑36
-https://letv.sd-play.com/20211107/Q2dWuSHi/1200kb/hls/index.m3u8
-#EXTINF:-1 group-title="movie",  泡菜奶酪微笑37
-https://letv.sd-play.com/20211107/I0M6F2hD/1200kb/hls/index.m3u8
-#EXTINF:-1 group-title="movie",  泡菜奶酪微笑38
-https://letv.sd-play.com/20211107/10BiCvdU/1200kb/hls/index.m3u8
-#EXTINF:-1 group-title="movie",  泡菜奶酪微笑39
-https://letv.sd-play.com/20211107/QuAKN4KY/1200kb/hls/index.m3u8
-#EXTINF:-1 group-title="movie",  泡菜奶酪微笑40
-https://letv.sd-play.com/20211107/kRsFmrkl/1200kb/hls/index.m3u8
-#EXTINF:-1 group-title="movie",  人世间47
-https://vod1.bdzybf7.com/20220423/gu1I3iJJ/index.m3u8
-#EXTINF:-1 group-title="movie",  人世间48
-https://vod1.bdzybf7.com/20220423/NgKpMC2K/index.m3u8
-#EXTINF:-1 group-title="movie",  人世间49
-https://vod1.bdzybf7.com/20220423/QuftVH77/index.m3u8
-#EXTINF:-1 group-title="movie",  人世间50
-https://vod1.bdzybf7.com/20220423/JVr2LuAD/index.m3u8
-#EXTINF:-1 group-title="movie",  人世间51
-https://vod1.bdzybf7.com/20220423/PLdng739/index.m3u8
-#EXTINF:-1 group-title="movie",  人世间52
-https://vod1.bdzybf7.com/20220423/XXM0lcdd/index.m3u8
-#EXTINF:-1 group-title="movie",  人世间53
-https://vod1.bdzybf7.com/20220423/R05xmmqv/index.m3u8
-#EXTINF:-1 group-title="movie",  人世间54
-https://vod1.bdzybf7.com/20220423/icjGOgZt/index.m3u8
-#EXTINF:-1 group-title="movie",  人世间55
-https://vod1.bdzybf7.com/20220423/JbUCnF5r/index.m3u8
-#EXTINF:-1 group-title="movie",  人世间56
-https://vod1.bdzybf7.com/20220423/CRbMrttp/index.m3u8
-#EXTINF:-1 group-title="movie",  人世间57
-https://vod1.bdzybf7.com/20220423/O8Fuc16l/index.m3u8
-#EXTINF:-1 group-title="movie",  人世间58
-https://vod1.bdzybf7.com/20220423/E6yTNel6/index.m3u8
+#EXTINF:-1 tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="4K频道", Bloomberg TV+ 4K
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="苏州4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png" group-title="4K频道",苏州4K
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-name="CCTV16-4K-25PHLG源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K频道",CCTV16-4K-25PHLG源
+http://live.cooltv.top/tv/aishang.php?id=cctv164k
+#EXTINF:-1 tvg-name="咪咕4K-HLG源-备用2" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/mg4k.png" group-title="4K频道",咪咕体育-4K-HLG源-2
+http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/308_144.png" group-title="4K频道",Astro Super Sport 4K
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/308_144.png" group-title="4K频道",Astro Super Sport 4K-1
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/5580CF3C-56BE-4D72-B0D3-F37E958D04A5.png" group-title="4K频道",Museum 4k
+http://cdnx1.plusx.tv:8880/Museum/mono.m3u8?token=cb776083b1e1b6f9bb2222
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/D96BA100-97AC-43BA-BA62-64F577B51BEF.png" group-title="4K频道",Home 4k
+http://cdnx1.plusx.tv:8880/316/mono.m3u8?token=cb776083b1e1b6f9bb2222
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/E73EC167-1255-433F-99D2-E8C78EF5B199.png" group-title="4K频道",Heritage 4k
+http://cdnx1.plusx.tv:8880/Heritage/mono.m3u8?token=cb776083b1e1b6f9bb2222
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/1F89764F-8057-40CD-8C72-F36F8A337101.png" group-title="4K频道",SuperSport 4k World CUP
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484694
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/D4DF7DB2-18A8-4A2B-B8ED-BAF244CC33FC.png" group-title="4K频道",Insight UHD
+http://cdnx1.plusx.tv:8880/InsightUHD11/mono.m3u8?token=24cce35b06aecc51433333
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EC4AEC0A-D365-432E-85BC-84879C601B12.png" group-title="4K频道",TRAVELXP TV 4K
+http://cdnx1.plusx.tv:8880/Travelxp/mono.m3u8?token=24cce35b06aecc51433333
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/00290534-F507-42B6-AB8E-8DEE7149079B.jpeg" group-title="4K频道",NASA 4k 60P 
+http://cdnx1.plusx.tv:8880/NASA/mono.m3u8?token=24cce35b06aecc51433333
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/B5A1993A-78DD-4BBD-BD13-73D5EC85DED9.jpeg" group-title="4K频道",MYZEN TV 4K
+http://cdnx1.plusx.tv:8880/myZen/mono.m3u8?token=24cce35b06aecc51433333
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/24DFCA13-4C67-4FEE-A413-2288F1FA94F6.jpeg" group-title="4K频道",爱自然
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 
 
