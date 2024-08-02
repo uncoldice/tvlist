@@ -26,11 +26,11 @@ https://stream1.freetv.fun/1420319964ac4e9e46c26a4d6910baeb6a47d67b432d6a0d65d2c
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="ysp·央视", CCTV-5体育
 https://stream1.freetv.fun/879e5711563465069616775f329a9231f38887c8146e7e06f2a86f766caa774d.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="ysp·央视", CCTV-5+体育赛事
-https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+https://stream1.freetv.fun/f53ac72e02ee68f8df40362bc821fb4b155e4635e1a4f874e7c3bc52254d09f9.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="ysp·央视", CCTV-6电影
 https://stream1.freetv.fun/ddd5b427db5db2b4b9f71b8efa5f5c4311c40644553f5b584ffcf7ec138327b8.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="ysp·央视", CCTV-8电视剧
-https://live.olelive.com:6443/live/CCTV8HD/hls.m3u8
+https://stream1.freetv.fun/fcd4f0b4fed44d3430a41dd356ce4af5243603fea98c08b1ab7debc4f592c4e8.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="ysp·央视", CCTV-9纪录
 https://live.olelive.com:6443/live/CCTV9HD/hls.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="ysp·央视", CCTV-13新闻
