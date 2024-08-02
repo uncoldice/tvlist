@@ -33,12 +33,8 @@ https://stream1.freetv.fun/ddd5b427db5db2b4b9f71b8efa5f5c4311c40644553f5b584ffcf
 https://live.olelive.com:6443/live/CCTV8HD/hls.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="ysp·央视", CCTV-9纪录
 https://live.olelive.com:6443/live/CCTV9HD/hls.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="ysp·央视", CCTV-10科教
-https://live.olelive.com:6443/live/CCTV10HD/hls.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="ysp·央视", CCTV-12社会与法
-https://live.olelive.com:6443/live/CCTV12HD/hls.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="ysp·央视", CCTV-13新闻
-https://live.olelive.com:6443/live/CCTV13HD/hls.m3u8
+https://stream1.freetv.fun/685eb1613fd34954ebd75ed318c560f4d4b74da28d16ed81589e8c5b387a1097.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="ysp·央视", CCTV-14少儿
 https://php.52sf.ga/@Curly_MouseIPTV-BF.php?id=132
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="ysp·央视", CCTV-15音乐
