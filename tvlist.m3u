@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml.gz"
-
+#EXTINF:-1 tvg-id="Aryen TV" group-title="SVT", Aryen TV
+https://aryen.tv/live/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SVT1" tvg-logo="https://raw.githubusercontent.com/uncoldice/tvlist/master/logo/svt1.jpg" group-title="SVT", SVT 1
 https://svt1-d.akamaized.net/se/svt1/master.m3u8?defaultSubLang=1
 #EXTINF:-1 tvg-id="SVT2" tvg-logo="https://raw.githubusercontent.com/uncoldice/tvlist/master/logo/svt2.jpg" group-title="SVT", SVT 2
