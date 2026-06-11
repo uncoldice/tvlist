@@ -3,28 +3,30 @@
 https://aryen.tv/live/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="ysp·央视", CCTV-1综合
-https://stream1.freetv.fun/b2804c7a3d365c0f61de8f820fdfabee5314167f14e4b744cae66fa88e6db9ce.m3u8
+http://107.150.60.122/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="ysp·央视", CCTV-1综合#2
-https://stream1.freetv.fun/902755c6797599fd9664cf16a63a200f70e953055d6dd72eca12c1c894cec85e.m3u8
+http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="ysp·央视", CCTV-2财经
-https://stream1.freetv.fun/26c80bb13895c8a2eef1680e9db369f7384cc593acbd84fc6792c47387d8e4a6.m3u8
+http://107.150.60.122/live/cctv2hd.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="ysp·央视", CCTV-2财经#2
-https://stream1.freetv.fun/2c958288b3b0b7dc1a964a4ab5025e26488c7040f225d7ecfb4da4c7bdf4a767.m3u8
+http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="ysp·央视", CCTV-5体育
-https://stream1.freetv.fun/f8180d1245d66d3fd373fd717c0bee40c24f15ed560101b2865f3861912ed15f.m3u8
+http://107.150.60.122/live/cctv5hd.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="ysp·央视", CCTV-5体育#2
-https://stream1.freetv.fun/dd322290645e66fb4f8300b55e4f514a18aad16aa8734bbb37af994da6620a24.m3u8
+http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="ysp·央视", CCTV-6电影
-https://stream1.freetv.fun/4ef9910f0b25f00e6dd8fee4dfa64e36044501c7fa50c1e7f94f4dcdf900d789.m3u8
+http://107.150.60.122/live/cctv6hd.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="ysp·央视", CCTV-6电影#2
-https://stream1.freetv.fun/c3f0198a54fc2b3bbcffc975630758e1499dc7e0a477cf03052a1f7cc3770197.m3u8
+http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="ysp·央视", CCTV-8电视剧
-https://stream1.freetv.fun/ae28a15047ad9536d998ea1b103debcd756654089bd4ccebd12ed38f250e2ff3.m3u8
+http://107.150.60.122/live/cctv8hd.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="ysp·央视", CCTV-8电视剧#2
+http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="ysp·央视", CCTV-13新闻
-https://stream1.freetv.fun/65d446e10513fa5b1d977218da14d894fe986b8910eeda7b7932f2280600fdc5.m3u8
+http://107.150.60.122/live/cctv13hd.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="ysp·央视", CCTV-13新闻#2
-https://stream1.freetv.fun/9d66da38f22c004e8bb853459b1875c039cf3f48c50a0c13ea8ce34f6978c657.m3u8
+http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="ysp·央视", CCTV-14少儿
-https://stream1.freetv.fun/d36690258aa4f1c366ade5da0dd559322d8de8a045d07f17282e6028af74fd85.m3u8
+http://107.150.60.122/live/cctv14hd.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="ysp·央视", CCTV-14少儿#2
-https://stream1.freetv.fun/dd1bf2908e6c223a2aeb355c1696cfeced5a4acc8fe56c0ddbf5025df3be47bb.m3u8
+http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
